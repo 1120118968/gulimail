@@ -5,9 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/gulimail-coupon/gulimail-coupon.iml" filepath="$PROJECT_DIR$/gulimail-coupon/gulimail-coupon.iml" />
       <module fileurl="file://$PROJECT_DIR$/gulimail-member/gulimail-member.iml" filepath="$PROJECT_DIR$/gulimail-member/gulimail-member.iml" />
       <module fileurl="file://$PROJECT_DIR$/gulimail-order/gulimail-order.iml" filepath="$PROJECT_DIR$/gulimail-order/gulimail-order.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gulimail-product/gulimail-product.iml" filepath="$PROJECT_DIR$/gulimail-product/gulimail-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimail-product/gilimail-product.iml" filepath="$PROJECT_DIR$/gulimail-product/gilimail-product.iml" />
       <module fileurl="file://$PROJECT_DIR$/gulimail-ware/gulimail-ware.iml" filepath="$PROJECT_DIR$/gulimail-ware/gulimail-ware.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gulimaill.iml" filepath="$PROJECT_DIR$/gulimaill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
     </modules>
   </component>
 </project>
