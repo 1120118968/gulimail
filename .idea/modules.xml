@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/gulimail-product/gilimail-product.iml" filepath="$PROJECT_DIR$/gulimail-product/gilimail-product.iml" />
       <module fileurl="file://$PROJECT_DIR$/gulimail-ware/gulimail-ware.iml" filepath="$PROJECT_DIR$/gulimail-ware/gulimail-ware.iml" />
       <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
     </modules>
   </component>
 </project>

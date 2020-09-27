@@ -1,4 +1,4 @@
-package com.example.gulimail.gilimailproduct;
+package com.example.gulimail.gulimailproduct;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.example.gulimail.gilimailproduct;
+package com.example.gulimail.gulimailproduct;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
