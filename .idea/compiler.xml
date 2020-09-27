@@ -12,10 +12,12 @@
         <module name="gulimail-coupon" />
         <module name="gulimail-order" />
         <module name="renren-fast" />
+        <module name="gilimail-product" />
         <module name="gulimail-ware" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="gilimail-product" target="1.8" />
       <module name="gulimail-coupon" target="1.8" />
       <module name="gulimail-member" target="1.8" />
       <module name="gulimail-order" target="1.8" />
@@ -27,6 +29,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gilimail-product" options="-parameters" />
       <module name="gulimail-coupon" options="-parameters" />
       <module name="gulimail-member" options="-parameters" />
       <module name="gulimail-order" options="-parameters" />
